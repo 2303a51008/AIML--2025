@@ -2,7 +2,7 @@
 # D.Nagateja
 # Artifical Intelligence and Machine Learning Lab Instructions Sheets
 1. [lab 01](https://github.com/2303a51008/AIML--2025/blob/main/AIML_A1.pdf): Introduction to Python Libraries-Numpy
-2. [lab 02](https://github.com/2303a51008/AIML--2025/blob/main/Lab02_AIML.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
+2. [lab 02](https://github.com/2303a51008/AIML--2025/blob/main/AIML_A2.pdf): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 3. [lab 03](https://github.com/2303a51008/AIML--2025/blob/main/AIML_LAB03.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. [lab 04](https://github.com/2303a51008/AIML--2025/blob/main/Lab04_AIML.ipynb): Implement Linear Regression using Boston Housing Data
 5. [lab 05](https://github.com/2303a51008/AIML--2025/blob/main/Lab05_AIML.ipynb): Implement Logistic Regression using Titanic Ship Data
